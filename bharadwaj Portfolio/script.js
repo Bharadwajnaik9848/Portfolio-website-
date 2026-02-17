@@ -56,7 +56,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const words = [
             'Software Developer',
-            'Cloud Enthusiast',
+            'Full Stack Developer',
             'Frontend Engineer',
             'Future AWS Architect'
         ];
