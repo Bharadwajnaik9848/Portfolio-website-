@@ -459,3 +459,30 @@ body{
     #chatbox { width: 90%; right: 5%; left: 5%; bottom: 16px; }
     .ai-button { right: 8px; bottom: 8px; }
 }
+.certificate-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.certificate-btn:hover {
+    background-color: #1d4ed8;
+}
+.certificate-btn {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 15px;
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.certificate-btn:hover {
+    background-color: #1d4ed8;
+}
